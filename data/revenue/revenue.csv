@@ -1,0 +1,501 @@
+survey_number,holder_name,registered_area,land_category
+SRV-1001,Suresh Patil,1200.0,Residential
+SRV-1002,Neha Verma,1200.0,Commercial
+SRV-1003,Priya Singh,1200.0,Commercial
+SRV-1004,Suresh Patil,1200.0,Residential
+SRV-1005,Mahesh Deshmukh,1200.0,Vacant
+SRV-1006,Rajesh Kumar,1200.0,Residential
+SRV-1007,Suresh Patil,1200.0,Commercial
+SRV-1008,Priya Singh,1200.0,Residential
+SRV-1009,Sunita Pawar,1200.0,Commercial
+SRV-1010,Sunita Pawar,1200.0,Vacant
+SRV-1011,Priya Singh,1200.0,Vacant
+SRV-1012,Mahesh Deshmukh,1200.0,Mixed Use
+SRV-1013,Rajesh Kumar,1200.0,Commercial
+SRV-1014,Anita Joshi,1200.0,Mixed Use
+SRV-1015,Neha Verma,1200.0,Commercial
+SRV-1016,Priya Singh,1200.0,Mixed Use
+SRV-1017,Suresh Patil,1200.0,Residential
+SRV-1018,Anita Joshi,1200.0,Residential
+SRV-1019,Vijay More,1200.0,Mixed Use
+SRV-1020,Mahesh Deshmukh,1200.0,Mixed Use
+SRV-1021,R. Kumar,1200.0,Vacant
+SRV-1022,Sunita Pawar,1200.0,Residential
+SRV-1023,Anita Joshi,1200.0,Residential
+SRV-1024,Sunita Pawar,1200.0,Mixed Use
+SRV-1025,Mahesh Deshmukh,1200.0,Mixed Use
+SRV-1026,Mahesh Deshmukh,1200.0,Commercial
+SRV-1027,Suresh Patil,1200.0,Residential
+SRV-1028,Priya Singh,1200.0,Mixed Use
+SRV-1029,Suresh Patil,1200.0,Commercial
+SRV-1030,Suresh Patil,1200.0,Vacant
+SRV-1031,Neha Verma,1200.0,Vacant
+SRV-1032,Vijay More,1200.0,Commercial
+SRV-1033,Vijay More,1200.0,Mixed Use
+SRV-1034,Priya Singh,1200.0,Mixed Use
+SRV-1035,Suresh Patil,1200.0,Commercial
+SRV-1036,Sunita Pawar,1200.0,Commercial
+SRV-1037,Amit Sharma,1200.0,Vacant
+SRV-1038,Anita Joshi,1200.0,Mixed Use
+SRV-1039,Sunita Pawar,1200.0,Commercial
+SRV-1040,Vijay More,1200.0,Residential
+SRV-1041,Priya Singh,1200.0,Residential
+SRV-1042,Vijay More,1200.0,Vacant
+SRV-1043,Neha Verma,1200.0,Residential
+SRV-1044,Priya Singh,1200.0,Mixed Use
+SRV-1045,Priya Singh,1200.0,Vacant
+SRV-1046,Anita Joshi,1140.0,Vacant
+SRV-1047,Amit Sharma,1200.0,Mixed Use
+SRV-1048,Amit Sharma,1200.0,Commercial
+SRV-1049,Sunita Pawar,1200.0,Mixed Use
+SRV-1050,Mahesh Deshmukh,1200.0,Vacant
+SRV-1051,Mahesh Deshmukh,1200.0,Vacant
+SRV-1052,Vijay More,1200.0,Commercial
+SRV-1053,Amit Sharma,1200.0,Vacant
+SRV-1054,Suresh Patil,1200.0,Residential
+SRV-1055,Suresh Patil,1200.0,Commercial
+SRV-1056,Amit Sharma,1200.0,Vacant
+SRV-1057,Mahesh Deshmukh,1200.0,Residential
+SRV-1058,Anita Joshi,1200.0,Vacant
+SRV-1059,Mahesh Deshmukh,1200.0,Vacant
+SRV-1060,Sunita Pawar,1200.0,Mixed Use
+SRV-1061,Vijay M.,1200.0,Residential
+SRV-1062,Suresh Patil,1200.0,Mixed Use
+SRV-1063,Vijay More,1200.0,Residential
+SRV-1064,Neha Verma,1200.0,Vacant
+SRV-1065,Amit Sharma,1200.0,Vacant
+SRV-1066,Rajesh Kumar,1200.0,Mixed Use
+SRV-1067,Sunita Pawar,1200.0,Commercial
+SRV-1068,Sunita Pawar,1200.0,Residential
+SRV-1069,Neha Verma,1200.0,Commercial
+SRV-1070,Amit Sharma,1200.0,Mixed Use
+SRV-1071,Amit Sharma,1200.0,Residential
+SRV-1072,Mahesh Deshmukh,1200.0,Mixed Use
+SRV-1073,Rohit Kulkarni,1200.0,Residential
+SRV-1074,Suresh Patil,1200.0,Mixed Use
+SRV-1075,Neha Verma,1200.0,Commercial
+SRV-1076,Rajesh Kumar,1248.0,Commercial
+SRV-1077,Mahesh Deshmukh,1200.0,Residential
+SRV-1078,Suresh Patil,1200.0,Vacant
+SRV-1079,Suresh Patil,1200.0,Commercial
+SRV-1080,Amit Sharma,1200.0,Vacant
+SRV-1081,Sunita Pawar,1200.0,Commercial
+SRV-1082,Neha Verma,1200.0,Vacant
+SRV-1083,Priya Singh,1200.0,Commercial
+SRV-1084,Neha Verma,1200.0,Vacant
+SRV-1085,Vijay More,1200.0,Vacant
+SRV-1086,Sunita Pawar,1200.0,Vacant
+SRV-1087,Suresh Patil,1200.0,Commercial
+SRV-1088,Priya Singh,1200.0,Residential
+SRV-1089,Vijay More,1200.0,Residential
+SRV-1090,Mahesh Deshmukh,1200.0,Commercial
+SRV-1091,Neha V.,1200.0,Commercial
+SRV-1092,Rajesh Kumar,1200.0,Residential
+SRV-1093,Rajesh Kumar,1200.0,Commercial
+SRV-1094,Suresh Patil,1200.0,Residential
+SRV-1095,Vijay More,1200.0,Residential
+SRV-1096,Sunita Pawar,1200.0,Commercial
+SRV-1097,Neha Verma,1200.0,Vacant
+SRV-1098,Priya Singh,1200.0,Commercial
+SRV-1099,Mahesh Deshmukh,1200.0,Vacant
+SRV-1100,Priya Singh,1200.0,Vacant
+SRV-1101,Anita Joshi,1200.0,Commercial
+SRV-1102,Suresh Patil,1200.0,Residential
+SRV-1103,Anita Joshi,1200.0,Mixed Use
+SRV-1104,Anita Joshi,1200.0,Vacant
+SRV-1105,Rohit Kulkarni,1200.0,Residential
+SRV-1106,Suresh Patil,1200.0,Residential
+SRV-1107,Anita Joshi,1200.0,Mixed Use
+SRV-1108,Suresh Patil,1200.0,Commercial
+SRV-1109,Priya Singh,1200.0,Commercial
+SRV-1110,Sunita Pawar,1200.0,Vacant
+SRV-1111,Amit Sharma,1200.0,Vacant
+SRV-1112,Amit Sharma,1200.0,Mixed Use
+SRV-1113,Rohit Kulkarni,1200.0,Commercial
+SRV-1114,Suresh Patil,1200.0,Vacant
+SRV-1115,Sunita Pawar,1200.0,Residential
+SRV-1116,Rajesh Kumar,1200.0,Residential
+SRV-1117,Suresh Patil,1200.0,Commercial
+SRV-1118,Amit Sharma,1200.0,Vacant
+SRV-1119,Rohit Kulkarni,1200.0,Vacant
+SRV-1120,Priya Singh,1200.0,Vacant
+SRV-1121,Rajesh Kumar,1200.0,Commercial
+SRV-1122,Anita Joshi,1200.0,Residential
+SRV-1123,Anita Joshi,1200.0,Mixed Use
+SRV-1124,Rohit Kulkarni,1200.0,Mixed Use
+SRV-1125,Anita Joshi,1200.0,Vacant
+SRV-1126,Amit Sharma,1200.0,Commercial
+SRV-1127,Neha Verma,1200.0,Commercial
+SRV-1128,Rajesh Kumar,1200.0,Residential
+SRV-1129,Vijay More,1200.0,Residential
+SRV-1130,Rajesh Kumar,1200.0,Vacant
+SRV-1131,Sunita Pawar,1200.0,Commercial
+SRV-1132,Rajesh Kumar,1200.0,Residential
+SRV-1133,Amit Sharma,1200.0,Residential
+SRV-1134,Mahesh Deshmukh,1200.0,Residential
+SRV-1135,Priya Singh,1200.0,Vacant
+SRV-1136,Suresh Patil,1200.0,Commercial
+SRV-1137,Mahesh Deshmukh,1200.0,Residential
+SRV-1138,Mahesh Deshmukh,1200.0,Residential
+SRV-1139,Anita Joshi,1200.0,Mixed Use
+SRV-1140,Neha Verma,1200.0,Commercial
+SRV-1141,Vijay More,1200.0,Commercial
+SRV-1142,Neha Verma,1200.0,Vacant
+SRV-1143,Amit Sharma,1200.0,Mixed Use
+SRV-1144,Rohit Kulkarni,1200.0,Mixed Use
+SRV-1145,Suresh Patil,1200.0,Residential
+SRV-1146,Rohit Kulkarni,1200.0,Residential
+SRV-1147,Suresh Patil,1200.0,Commercial
+SRV-1148,Sunita Pawar,1200.0,Mixed Use
+SRV-1149,Amit Sharma,1200.0,Mixed Use
+SRV-1150,Suresh Patil,1200.0,Commercial
+SRV-1151,Vijay More,1200.0,Mixed Use
+SRV-1152,Amit Sharma,1200.0,Vacant
+SRV-1153,Sunita Pawar,1200.0,Mixed Use
+SRV-1154,Mahesh Deshmukh,1200.0,Residential
+SRV-1155,Sunita Pawar,1200.0,Mixed Use
+SRV-1156,Suresh Patil,1200.0,Commercial
+SRV-1157,Neha Verma,1200.0,Residential
+SRV-1158,Suresh Patil,1200.0,Commercial
+SRV-1159,Neha Verma,1200.0,Mixed Use
+SRV-1160,Mahesh Deshmukh,1200.0,Commercial
+SRV-1161,Vijay More,1200.0,Commercial
+SRV-1162,Neha Verma,1200.0,Vacant
+SRV-1163,Neha Verma,1200.0,Residential
+SRV-1164,Suresh Patil,1200.0,Vacant
+SRV-1165,Neha Verma,1200.0,Residential
+SRV-1166,Rajesh Kumar,1200.0,Mixed Use
+SRV-1167,Amit Sharma,1200.0,Mixed Use
+SRV-1168,Amit Sharma,1200.0,Vacant
+SRV-1169,Sunita Pawar,1200.0,Vacant
+SRV-1170,Sunita Pawar,1200.0,Residential
+SRV-1171,Suresh Patil,1200.0,Residential
+SRV-1172,Amit Sharma,1200.0,Residential
+SRV-1173,Vijay More,1200.0,Commercial
+SRV-1174,Anita Joshi,1200.0,Commercial
+SRV-1175,Rajesh Kumar,1200.0,Mixed Use
+SRV-1176,Vijay More,1200.0,Residential
+SRV-1177,Vijay More,1200.0,Commercial
+SRV-1178,Priya Singh,1200.0,Residential
+SRV-1179,Vijay More,1200.0,Vacant
+SRV-1180,Mahesh Deshmukh,1200.0,Commercial
+SRV-1181,Priya Singh,1200.0,Commercial
+SRV-1182,Amit Sharma,1200.0,Vacant
+SRV-1183,Rajesh Kumar,1200.0,Commercial
+SRV-1184,Vijay More,1200.0,Vacant
+SRV-1185,Priya Singh,1200.0,Mixed Use
+SRV-1186,Amit Sharma,1200.0,Residential
+SRV-1187,Anita Joshi,1200.0,Residential
+SRV-1188,Rohit Kulkarni,1200.0,Commercial
+SRV-1189,Priya Singh,1200.0,Vacant
+SRV-1190,Vijay More,1200.0,Mixed Use
+SRV-1191,Priya Singh,1200.0,Commercial
+SRV-1192,Rajesh Kumar,1200.0,Commercial
+SRV-1193,Anita Joshi,1200.0,Mixed Use
+SRV-1194,Neha Verma,1200.0,Residential
+SRV-1195,Neha Verma,1200.0,Mixed Use
+SRV-1196,Sunita Pawar,1200.0,Vacant
+SRV-1197,Sunita Pawar,1200.0,Mixed Use
+SRV-1198,Rajesh Kumar,1200.0,Residential
+SRV-1199,Neha Verma,1200.0,Commercial
+SRV-1200,Mahesh Deshmukh,1200.0,Mixed Use
+SRV-1201,Rajesh Kumar,1200.0,Residential
+SRV-1202,Mahesh Deshmukh,1200.0,Vacant
+SRV-1203,Vijay More,1200.0,Mixed Use
+SRV-1204,Anita Joshi,1200.0,Residential
+SRV-1205,Anita Joshi,1200.0,Commercial
+SRV-1206,Neha Verma,1200.0,Residential
+SRV-1207,Anita Joshi,1200.0,Residential
+SRV-1208,Sunita Pawar,1200.0,Commercial
+SRV-1209,Vijay More,1200.0,Vacant
+SRV-1210,Suresh Patil,1200.0,Mixed Use
+SRV-1211,Mahesh Deshmukh,1200.0,Mixed Use
+SRV-1212,Suresh Patil,1200.0,Mixed Use
+SRV-1213,Sunita Pawar,1200.0,Mixed Use
+SRV-1214,Anita Joshi,1200.0,Mixed Use
+SRV-1215,Anita Joshi,1200.0,Mixed Use
+SRV-1216,Sunita Pawar,1200.0,Commercial
+SRV-1217,Priya Singh,1200.0,Vacant
+SRV-1218,Anita Joshi,1200.0,Commercial
+SRV-1219,Mahesh Deshmukh,1200.0,Mixed Use
+SRV-1220,Anita Joshi,1200.0,Residential
+SRV-1221,Neha Verma,1200.0,Mixed Use
+SRV-1222,Priya Singh,1200.0,Vacant
+SRV-1223,Mahesh Deshmukh,1200.0,Mixed Use
+SRV-1224,Rohit Kulkarni,1200.0,Vacant
+SRV-1225,Rohit Kulkarni,1200.0,Commercial
+SRV-1226,Sunita Pawar,1200.0,Vacant
+SRV-1227,Amit Sharma,1200.0,Residential
+SRV-1228,Neha Verma,1200.0,Mixed Use
+SRV-1229,Suresh Patil,1200.0,Commercial
+SRV-1230,Neha Verma,1200.0,Commercial
+SRV-1231,Priya Singh,1200.0,Commercial
+SRV-1232,Rajesh Kumar,1200.0,Residential
+SRV-1233,Priya Singh,1200.0,Vacant
+SRV-1234,Mahesh Deshmukh,1200.0,Residential
+SRV-1235,Rohit Kulkarni,1200.0,Vacant
+SRV-1236,Mahesh Deshmukh,1200.0,Commercial
+SRV-1237,Anita Joshi,1200.0,Vacant
+SRV-1238,Anita Joshi,1200.0,Commercial
+SRV-1239,Amit Sharma,1200.0,Residential
+SRV-1240,Suresh Patil,1200.0,Vacant
+SRV-1241,Priya Singh,1200.0,Commercial
+SRV-1242,Sunita Pawar,1200.0,Vacant
+SRV-1243,Rajesh Kumar,1200.0,Commercial
+SRV-1244,Suresh Patil,1200.0,Vacant
+SRV-1245,Amit Sharma,1200.0,Vacant
+SRV-1246,Sunita Pawar,1200.0,Mixed Use
+SRV-1247,Rohit Kulkarni,1200.0,Vacant
+SRV-1248,Sunita Pawar,1200.0,Vacant
+SRV-1249,Amit Sharma,1200.0,Vacant
+SRV-1250,Rohit Kulkarni,1200.0,Mixed Use
+SRV-1251,Priya Singh,1200.0,Mixed Use
+SRV-1252,Sunita Pawar,1200.0,Vacant
+SRV-1253,Priya Singh,1200.0,Mixed Use
+SRV-1254,Rohit Kulkarni,1200.0,Residential
+SRV-1255,Neha Verma,1200.0,Commercial
+SRV-1256,Neha Verma,1200.0,Mixed Use
+SRV-1257,Vijay More,1200.0,Residential
+SRV-1258,Amit Sharma,1200.0,Commercial
+SRV-1259,Priya Singh,1200.0,Vacant
+SRV-1260,Amit Sharma,1200.0,Commercial
+SRV-1261,Suresh Patil,1200.0,Vacant
+SRV-1262,Anita Joshi,1200.0,Mixed Use
+SRV-1263,Sunita Pawar,1200.0,Vacant
+SRV-1264,Anita Joshi,1200.0,Residential
+SRV-1265,Priya Singh,1200.0,Vacant
+SRV-1266,Anita Joshi,1200.0,Residential
+SRV-1267,Mahesh Deshmukh,1200.0,Vacant
+SRV-1268,Rohit Kulkarni,1200.0,Residential
+SRV-1269,Vijay More,1200.0,Mixed Use
+SRV-1270,Anita Joshi,1200.0,Vacant
+SRV-1271,Sunita Pawar,1200.0,Commercial
+SRV-1272,Rohit Kulkarni,1200.0,Commercial
+SRV-1273,Neha Verma,1200.0,Vacant
+SRV-1274,Rohit Kulkarni,1200.0,Residential
+SRV-1275,Anita Joshi,1200.0,Mixed Use
+SRV-1276,Anita Joshi,1200.0,Commercial
+SRV-1277,Rohit Kulkarni,1200.0,Commercial
+SRV-1278,Mahesh Deshmukh,1200.0,Residential
+SRV-1279,Anita Joshi,1200.0,Residential
+SRV-1280,Suresh Patil,1200.0,Vacant
+SRV-1281,Amit Sharma,1200.0,Vacant
+SRV-1282,Amit Sharma,1200.0,Residential
+SRV-1283,Neha Verma,1200.0,Vacant
+SRV-1284,Vijay More,1200.0,Commercial
+SRV-1285,Rohit Kulkarni,1200.0,Mixed Use
+SRV-1286,Vijay More,1200.0,Vacant
+SRV-1287,Neha Verma,1200.0,Vacant
+SRV-1288,Neha Verma,1200.0,Residential
+SRV-1289,Rohit Kulkarni,1200.0,Residential
+SRV-1290,Sunita Pawar,1200.0,Residential
+SRV-1291,Vijay More,1200.0,Commercial
+SRV-1292,Suresh Patil,1200.0,Residential
+SRV-1293,Rajesh Kumar,1200.0,Commercial
+SRV-1294,Priya Singh,1200.0,Residential
+SRV-1295,Mahesh Deshmukh,1200.0,Commercial
+SRV-1296,Priya Singh,1200.0,Commercial
+SRV-1297,Rohit Kulkarni,1200.0,Residential
+SRV-1298,Mahesh Deshmukh,1200.0,Commercial
+SRV-1299,Rohit Kulkarni,1200.0,Mixed Use
+SRV-1300,Vijay More,1200.0,Commercial
+SRV-1301,Mahesh Deshmukh,1200.0,Residential
+SRV-1302,Amit Sharma,1200.0,Mixed Use
+SRV-1303,Suresh Patil,1200.0,Residential
+SRV-1304,Neha Verma,1200.0,Vacant
+SRV-1305,Anita Joshi,1200.0,Commercial
+SRV-1306,Suresh Patil,1200.0,Commercial
+SRV-1307,Suresh Patil,1200.0,Mixed Use
+SRV-1308,Mahesh Deshmukh,1200.0,Residential
+SRV-1309,Mahesh Deshmukh,1200.0,Residential
+SRV-1310,Vijay More,1200.0,Vacant
+SRV-1311,Vijay More,1200.0,Residential
+SRV-1312,Sunita Pawar,1200.0,Mixed Use
+SRV-1313,Rajesh Kumar,1200.0,Vacant
+SRV-1314,Rohit Kulkarni,1200.0,Residential
+SRV-1315,Anita Joshi,1200.0,Mixed Use
+SRV-1316,Rohit Kulkarni,1200.0,Commercial
+SRV-1317,Anita Joshi,1200.0,Commercial
+SRV-1318,Sunita Pawar,1200.0,Mixed Use
+SRV-1319,Mahesh Deshmukh,1200.0,Vacant
+SRV-1320,Rohit Kulkarni,1200.0,Vacant
+SRV-1321,Mahesh Deshmukh,1200.0,Mixed Use
+SRV-1322,Vijay More,1200.0,Commercial
+SRV-1323,Suresh Patil,1200.0,Mixed Use
+SRV-1324,Rohit Kulkarni,1200.0,Commercial
+SRV-1325,Rohit Kulkarni,1200.0,Vacant
+SRV-1326,Vijay More,1200.0,Residential
+SRV-1327,Rohit Kulkarni,1200.0,Mixed Use
+SRV-1328,Amit Sharma,1200.0,Vacant
+SRV-1329,Priya Singh,1200.0,Mixed Use
+SRV-1330,Neha Verma,1200.0,Mixed Use
+SRV-1331,Neha Verma,1200.0,Mixed Use
+SRV-1332,Sunita Pawar,1200.0,Residential
+SRV-1333,Sunita Pawar,1200.0,Commercial
+SRV-1334,Suresh Patil,1200.0,Commercial
+SRV-1335,Anita Joshi,1200.0,Vacant
+SRV-1336,Sunita Pawar,1200.0,Commercial
+SRV-1337,Rohit Kulkarni,1200.0,Vacant
+SRV-1338,Rohit Kulkarni,1200.0,Residential
+SRV-1339,Suresh Patil,1200.0,Mixed Use
+SRV-1340,Priya Singh,1200.0,Vacant
+SRV-1341,Priya Singh,1200.0,Mixed Use
+SRV-1342,Mahesh Deshmukh,1200.0,Mixed Use
+SRV-1343,Rohit Kulkarni,1200.0,Mixed Use
+SRV-1344,Anita Joshi,1200.0,Mixed Use
+SRV-1345,Vijay More,1200.0,Vacant
+SRV-1346,Neha Verma,1200.0,Mixed Use
+SRV-1347,Neha Verma,1200.0,Commercial
+SRV-1348,Suresh Patil,1200.0,Commercial
+SRV-1349,Vijay More,1200.0,Residential
+SRV-1350,Sunita Pawar,1200.0,Commercial
+SRV-1351,Priya Singh,1200.0,Commercial
+SRV-1352,Rohit Kulkarni,1200.0,Mixed Use
+SRV-1353,Mahesh Deshmukh,1200.0,Mixed Use
+SRV-1354,Suresh Patil,1200.0,Commercial
+SRV-1355,Neha Verma,1200.0,Commercial
+SRV-1356,Vijay More,1200.0,Commercial
+SRV-1357,Neha Verma,1200.0,Residential
+SRV-1358,Sunita Pawar,1200.0,Commercial
+SRV-1359,Neha Verma,1200.0,Residential
+SRV-1360,Rajesh Kumar,1200.0,Mixed Use
+SRV-1361,Amit Sharma,1200.0,Vacant
+SRV-1362,Suresh Patil,1200.0,Residential
+SRV-1363,Mahesh Deshmukh,1200.0,Mixed Use
+SRV-1364,Rohit Kulkarni,1200.0,Vacant
+SRV-1365,Rohit Kulkarni,1200.0,Mixed Use
+SRV-1366,Amit Sharma,1200.0,Residential
+SRV-1367,Neha Verma,1200.0,Vacant
+SRV-1368,Suresh Patil,1200.0,Residential
+SRV-1369,Anita Joshi,1200.0,Vacant
+SRV-1370,Suresh Patil,1200.0,Residential
+SRV-1371,Amit Sharma,1200.0,Commercial
+SRV-1372,Mahesh Deshmukh,1200.0,Mixed Use
+SRV-1373,Suresh Patil,1200.0,Commercial
+SRV-1374,Suresh Patil,1200.0,Vacant
+SRV-1375,Mahesh Deshmukh,1200.0,Commercial
+SRV-1376,Sunita Pawar,1200.0,Vacant
+SRV-1377,Rohit Kulkarni,1200.0,Vacant
+SRV-1378,Neha Verma,1200.0,Vacant
+SRV-1379,Neha Verma,1200.0,Residential
+SRV-1380,Mahesh Deshmukh,1200.0,Residential
+SRV-1381,Priya Singh,1200.0,Commercial
+SRV-1382,Neha Verma,1200.0,Residential
+SRV-1383,Amit Sharma,1200.0,Commercial
+SRV-1384,Amit Sharma,1200.0,Residential
+SRV-1385,Amit Sharma,1200.0,Residential
+SRV-1386,Anita Joshi,1200.0,Vacant
+SRV-1387,Mahesh Deshmukh,1200.0,Vacant
+SRV-1388,Neha Verma,1200.0,Residential
+SRV-1389,Priya Singh,1200.0,Mixed Use
+SRV-1390,Neha Verma,1200.0,Vacant
+SRV-1391,Suresh Patil,1200.0,Commercial
+SRV-1392,Neha Verma,1200.0,Commercial
+SRV-1393,Anita Joshi,1200.0,Residential
+SRV-1394,Sunita Pawar,1200.0,Commercial
+SRV-1395,Amit Sharma,1200.0,Mixed Use
+SRV-1396,Amit Sharma,1200.0,Residential
+SRV-1397,Rajesh Kumar,1200.0,Commercial
+SRV-1398,Neha Verma,1200.0,Mixed Use
+SRV-1399,Rohit Kulkarni,1200.0,Residential
+SRV-1400,Rohit Kulkarni,1200.0,Mixed Use
+SRV-1401,Anita Joshi,1200.0,Mixed Use
+SRV-1402,Sunita Pawar,1200.0,Vacant
+SRV-1403,Rohit Kulkarni,1200.0,Residential
+SRV-1404,Mahesh Deshmukh,1200.0,Residential
+SRV-1405,Anita Joshi,1200.0,Mixed Use
+SRV-1406,Mahesh Deshmukh,1200.0,Mixed Use
+SRV-1407,Rajesh Kumar,1200.0,Residential
+SRV-1408,Priya Singh,1200.0,Residential
+SRV-1409,Neha Verma,1200.0,Residential
+SRV-1410,Amit Sharma,1200.0,Vacant
+SRV-1411,Sunita Pawar,1200.0,Vacant
+SRV-1412,Neha Verma,1200.0,Commercial
+SRV-1413,Mahesh Deshmukh,1200.0,Vacant
+SRV-1414,Rohit Kulkarni,1200.0,Residential
+SRV-1415,Rohit Kulkarni,1200.0,Mixed Use
+SRV-1416,Anita Joshi,1200.0,Mixed Use
+SRV-1417,Vijay More,1200.0,Residential
+SRV-1418,Amit Sharma,1200.0,Mixed Use
+SRV-1419,Anita Joshi,1200.0,Vacant
+SRV-1420,Neha Verma,1200.0,Vacant
+SRV-1421,Sunita Pawar,1200.0,Residential
+SRV-1422,Rohit Kulkarni,1200.0,Residential
+SRV-1423,Vijay More,1200.0,Mixed Use
+SRV-1424,Vijay More,1200.0,Residential
+SRV-1425,Anita Joshi,1200.0,Residential
+SRV-1426,Sunita Pawar,1200.0,Vacant
+SRV-1427,Anita Joshi,1200.0,Residential
+SRV-1428,Priya Singh,1200.0,Mixed Use
+SRV-1429,Mahesh Deshmukh,1200.0,Vacant
+SRV-1430,Rohit Kulkarni,1200.0,Residential
+SRV-1431,Priya Singh,1200.0,Mixed Use
+SRV-1432,Sunita Pawar,1200.0,Commercial
+SRV-1433,Neha Verma,1200.0,Vacant
+SRV-1434,Rohit Kulkarni,1200.0,Residential
+SRV-1435,Rajesh Kumar,1200.0,Commercial
+SRV-1436,Amit Sharma,1200.0,Mixed Use
+SRV-1437,Sunita Pawar,1200.0,Residential
+SRV-1438,Sunita Pawar,1200.0,Vacant
+SRV-1439,Suresh Patil,1200.0,Commercial
+SRV-1440,Suresh Patil,1200.0,Vacant
+SRV-1441,Suresh Patil,1200.0,Commercial
+SRV-1442,Rohit Kulkarni,1200.0,Mixed Use
+SRV-1443,Sunita Pawar,1200.0,Mixed Use
+SRV-1444,Anita Joshi,1200.0,Vacant
+SRV-1445,Rohit Kulkarni,1200.0,Commercial
+SRV-1446,Rohit Kulkarni,1200.0,Commercial
+SRV-1447,Anita Joshi,1200.0,Commercial
+SRV-1448,Mahesh Deshmukh,1200.0,Commercial
+SRV-1449,Suresh Patil,1200.0,Mixed Use
+SRV-1450,Anita Joshi,1200.0,Mixed Use
+SRV-1451,Sunita Pawar,1200.0,Mixed Use
+SRV-1452,Rajesh Kumar,1200.0,Mixed Use
+SRV-1453,Neha Verma,1200.0,Vacant
+SRV-1454,Amit Sharma,1200.0,Vacant
+SRV-1455,Sunita Pawar,1200.0,Vacant
+SRV-1456,Vijay More,1200.0,Mixed Use
+SRV-1457,Sunita Pawar,1200.0,Vacant
+SRV-1458,Rohit Kulkarni,1200.0,Mixed Use
+SRV-1459,Priya Singh,1200.0,Commercial
+SRV-1460,Mahesh Deshmukh,1200.0,Vacant
+SRV-1461,Priya Singh,1200.0,Vacant
+SRV-1462,Rajesh Kumar,1200.0,Mixed Use
+SRV-1463,Rohit Kulkarni,1200.0,Vacant
+SRV-1464,Anita Joshi,1200.0,Commercial
+SRV-1465,Rohit Kulkarni,1200.0,Residential
+SRV-1466,Amit Sharma,1200.0,Mixed Use
+SRV-1467,Suresh Patil,1200.0,Vacant
+SRV-1468,Suresh Patil,1200.0,Vacant
+SRV-1469,Rajesh Kumar,1200.0,Commercial
+SRV-1470,Anita Joshi,1200.0,Commercial
+SRV-1471,Suresh Patil,1200.0,Vacant
+SRV-1472,Neha Verma,1200.0,Mixed Use
+SRV-1473,Mahesh Deshmukh,1200.0,Vacant
+SRV-1474,Suresh Patil,1200.0,Mixed Use
+SRV-1475,Sunita Pawar,1200.0,Vacant
+SRV-1476,Vijay More,1200.0,Vacant
+SRV-1477,Sunita Pawar,1200.0,Residential
+SRV-1478,Mahesh Deshmukh,1200.0,Residential
+SRV-1479,Priya Singh,1200.0,Mixed Use
+SRV-1480,Priya Singh,1200.0,Residential
+SRV-1481,Anita Joshi,1200.0,Residential
+SRV-1482,Suresh Patil,1200.0,Vacant
+SRV-1483,Amit Sharma,1200.0,Mixed Use
+SRV-1484,Rajesh Kumar,1200.0,Residential
+SRV-1485,Vijay More,1200.0,Residential
+SRV-1486,Neha Verma,1200.0,Mixed Use
+SRV-1487,Vijay More,1200.0,Vacant
+SRV-1488,Amit Sharma,1200.0,Commercial
+SRV-1489,Sunita Pawar,1200.0,Vacant
+SRV-1490,Mahesh Deshmukh,1200.0,Commercial
+SRV-1491,Amit Sharma,1200.0,Commercial
+SRV-1492,Suresh Patil,1200.0,Vacant
+SRV-1493,Mahesh Deshmukh,1200.0,Commercial
+SRV-1494,Rohit Kulkarni,1200.0,Commercial
+SRV-1495,Priya Singh,1200.0,Vacant
+SRV-1496,Neha Verma,1200.0,Vacant
+SRV-1497,Neha Verma,1200.0,Residential
+SRV-1498,Rohit Kulkarni,1200.0,Mixed Use
+SRV-1499,Sunita Pawar,1200.0,Commercial
+SRV-1500,Suresh Patil,1200.0,Vacant
