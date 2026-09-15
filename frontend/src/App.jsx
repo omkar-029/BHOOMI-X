@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 function App() {
   const [stats, setStats] = useState(null);
   useEffect(() => {
-  fetch("http://127.0.0.1:8000/")
+  fetch("http://127.0.0.1:8000/stats")
     .then((response) => response.json())
     .then((data) => setStats(data))
     .catch((error) => console.error(error));
