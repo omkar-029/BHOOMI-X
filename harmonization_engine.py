@@ -395,6 +395,11 @@ for _, parcel in ground_truth.iterrows():
 
         "municipal_plot_id":
             candidate["plot_id"],
+            "reference_area_sqm":
+    parcel["area_sqm"],
+
+"municipal_area_sqm":
+    candidate["plot_area"],
 
         "spatial_similarity":
             spatial_score,
