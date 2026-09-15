@@ -1,0 +1,9 @@
+parcel_id,municipal_plot_id,conflict_count,recommended_action,explanation,confidence_score,confidence_level,evidence,review_status,priority,officer_action,officer_comment
+P0006,M-8005,1,REVIEW OWNER,Owner names are similar but require verification.,80,MEDIUM CONFIDENCE,Owner information differs or requires verification between datasets.,PENDING,MEDIUM,REVIEW,Verify ownership documents.
+P0016,M-8015,1,REVIEW OWNER,Owner records differ. Cadastral: Suresh P.; Municipal: Priya Singh.,80,MEDIUM CONFIDENCE,Owner information differs or requires verification between datasets.,PENDING,MEDIUM,REVIEW,Verify ownership documents.
+P0031,M-8030,1,REVIEW AREA,Recorded parcel areas differ by 36.00 square metres.,82,MEDIUM CONFIDENCE,A difference was detected in the recorded parcel area.,PENDING,MEDIUM,REVIEW,Verify recorded parcel area.
+P0036,M-8035,1,REVIEW OWNER,Owner records differ. Cadastral: Amit S.; Municipal: Sunita Pawar.,80,MEDIUM CONFIDENCE,Owner information differs or requires verification between datasets.,PENDING,MEDIUM,REVIEW,Verify ownership documents.
+P0041,M-8040,1,REVIEW GEOMETRY,Geometry issue: Municipal boundary appears spatially shifted.,78,NEEDS REVIEW,A difference was detected between parcel boundaries or geometry.,PENDING,HIGH,REVIEW,Verify parcel boundary.
+P0051,M-8050,1,REVIEW AREA,Recorded parcel areas differ by 48.00 square metres.,82,MEDIUM CONFIDENCE,A difference was detected in the recorded parcel area.,PENDING,MEDIUM,REVIEW,Verify recorded parcel area.
+P0101,M-8100,1,REVIEW AREA,Recorded parcel areas differ by 48.00 square metres.,82,MEDIUM CONFIDENCE,A difference was detected in the recorded parcel area.,PENDING,MEDIUM,REVIEW,Verify recorded parcel area.
+P0151,M-8150,1,REVIEW AREA,Recorded parcel areas differ by 60.00 square metres.,82,MEDIUM CONFIDENCE,A difference was detected in the recorded parcel area.,PENDING,MEDIUM,REVIEW,Verify recorded parcel area.

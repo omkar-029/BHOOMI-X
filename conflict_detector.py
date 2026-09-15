@@ -127,7 +127,7 @@ for _, row in matches.iterrows():
     )
 
     results.append({
-        "survey_no": row.get("survey_no"),
+       "parcel_id": row.get("parcel_id"),
         "reference_area_sqm": reference_area,
         "municipal_area_sqm": municipal_area,
         **conflict
