@@ -3,6 +3,7 @@ import { useEffect, useState } from "react";
 function App() {
   const [stats, setStats] = useState(null);
   const [reviewParcel, setReviewParcel] = useState(null);
+  const [decision, setDecision] = useState(null);
   useEffect(() => {
   fetch("http://127.0.0.1:8000/stats")
     .then((response) => response.json())
@@ -82,7 +83,7 @@ function App() {
 </td>
                 <td>Owner Conflict</td>
                 <td>80%</td>
-                <td>Medium</td>
+               <td>{decision === "Approved" ? "Approved" : "Medium"}</td>
              <td><button onClick={() => setReviewParcel("P0006")}>Review</button></td>
               </tr>
 
@@ -139,7 +140,9 @@ function App() {
      {reviewParcel && (
   <section>
     <h2>Officer Review</h2>
-    <p>Reviewing parcel: {reviewParcel}</p>
+   <p><strong>Parcel:</strong> {reviewParcel} | <strong>Issue:</strong> Owner Conflict | <strong>Confidence:</strong> 80% | <strong>Action:</strong> Verify ownership documents.</p>
+  {decision && <p><strong>Status:</strong> {decision}</p>}
+  <button onClick={() => { setDecision("Approved"); setReviewParcel(null); }}>Approve</button>
     <button onClick={() => setReviewParcel(null)}>Close</button>
   </section>
 )}
