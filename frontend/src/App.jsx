@@ -83,7 +83,7 @@ function App() {
 </td>
                 <td>Owner Conflict</td>
                 <td>80%</td>
-               <td>{decision === "Approved" ? "Approved" : "Medium"}</td>
+<td>{decision === "Approved" ? "Approved" : decision === "Rejected" ? "Rejected" : decision === "Verification Required" ? "Verification Required" : "Medium"}</td>
              <td><button onClick={() => setReviewParcel("P0006")}>Review</button></td>
               </tr>
 
@@ -143,6 +143,8 @@ function App() {
    <p><strong>Parcel:</strong> {reviewParcel} | <strong>Issue:</strong> Owner Conflict | <strong>Confidence:</strong> 80% | <strong>Action:</strong> Verify ownership documents.</p>
   {decision && <p><strong>Status:</strong> {decision}</p>}
   <button onClick={() => { setDecision("Approved"); setReviewParcel(null); }}>Approve</button>
+   <button onClick={() => { setDecision("Rejected"); setReviewParcel(null); }}>Reject</button>
+<button onClick={() => setDecision("Verification Required")}>Verify</button>
     <button onClick={() => setReviewParcel(null)}>Close</button>
   </section>
 )}
