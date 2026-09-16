@@ -84,7 +84,7 @@ function App() {
                 <td>Owner Conflict</td>
                 <td>80%</td>
 <td>{decision === "Approved" ? "Approved" : decision === "Rejected" ? "Rejected" : decision === "Verified" ? "Verified" : "Medium"}</td>
-             <td><button onClick={() => setReviewParcel("P0006")}>Review</button></td>
+             <td>{decision ? "Completed" : <button onClick={() => setReviewParcel("P0006")}>Review</button>}</td>
               </tr>
 
               <tr>
