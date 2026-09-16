@@ -2,6 +2,7 @@ import MapView from "./MapView";
 import { useEffect, useState } from "react";
 function App() {
   const [stats, setStats] = useState(null);
+  const [reviewParcel, setReviewParcel] = useState(null);
   useEffect(() => {
   fetch("http://127.0.0.1:8000/stats")
     .then((response) => response.json())
@@ -10,6 +11,7 @@ function App() {
     }, []);
     
   return (
+    
     <div>
       <header>
         <h1>BHOOMI-X</h1>
@@ -62,6 +64,7 @@ function App() {
                 <th>Issue</th>
                 <th>Confidence</th>
                 <th>Priority</th>
+                <th>Action</th>
               </tr>
             </thead>
 
@@ -80,6 +83,7 @@ function App() {
                 <td>Owner Conflict</td>
                 <td>80%</td>
                 <td>Medium</td>
+             <td><button onClick={() => setReviewParcel("P0006")}>Review</button></td>
               </tr>
 
               <tr>
@@ -132,7 +136,15 @@ function App() {
             </tbody>
           </table>
         </section>
+     {reviewParcel && (
+  <section>
+    <h2>Officer Review</h2>
+    <p>Reviewing parcel: {reviewParcel}</p>
+    <button onClick={() => setReviewParcel(null)}>Close</button>
+  </section>
+)}
       </main>
+     
     </div>
   )
 }
